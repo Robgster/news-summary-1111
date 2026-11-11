@@ -14,7 +14,7 @@ US: The House voted 211-204 on Tuesday to shelve the impeachment of Defense Secr
 
 EUROPE: Spanish workers struck over housing costs less than three weeks before a national election. More than 300 Italian schools were evacuated after hoax bomb emails. British police are holding a US soldier on suspicion of spying for Russia. A two-minute silence at 11am marked the 1918 Armistice.
 
-ELSEWHERE: At the COP31 climate summit in Antalya, UN chief Antonio Guterres warned the crisis "is outrunning us." Ebola cases in Congo passed 11,000 in the country's deadliest outbreak; Kenya discharged its last patient. Thousands protested in Indonesia over the handling of forest fires.`;
+ELSEWHERE: At the COP31 climate summit in Antalya, UN chief Antonio Guterres warned the crisis "is outrunning us." Ebola cases in Congo passed 11,000 in the country's deadliest outbreak; Kenya discharged its last patient. Thousands in Indonesia protested the handling of forest fires.`;
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", SUMMARY, "utf8");
